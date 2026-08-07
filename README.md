@@ -6,4 +6,4 @@
 ---
 Tool Plugin for IDE
 
-[![Jetbrain Markplate | LanguageManager](https://github.com/user-attachments/assets/50685c71-f6ae-4c6b-acaf-81358cedbcd5)](https://plugins.jetbrains.com/plugin/32901-languagemanager)
+[![Download Jetbrain plugin | LanguageManager](https://github.com/user-attachments/assets/1a467a91-8d25-4c48-8efc-385606bc0933)](https://plugins.jetbrains.com/plugin/32901-languagemanager)
