@@ -6,4 +6,4 @@
 ---
 Tool Plugin for IDE
 
-[![Download Jetbrain plugin | LanguageManager](https://github.com/user-attachments/assets/1a467a91-8d25-4c48-8efc-385606bc0933)](https://plugins.jetbrains.com/plugin/32901-languagemanager)
+[![Download Jetbrain plugin | LanguageManager](https://github.com/user-attachments/assets/0202f84f-4d4b-4060-962f-25194040fdd3)](https://plugins.jetbrains.com/plugin/32901-languagemanager)
